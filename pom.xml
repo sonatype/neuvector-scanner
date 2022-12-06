@@ -4,6 +4,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
+  <parent>
+    <groupId>com.sonatype.buildsupport</groupId>
+    <artifactId>private-parent</artifactId>
+    <version>30</version>
+    <relativePath/>
+  </parent>
+
   <groupId>com.neuvector</groupId>
   <artifactId>scanner</artifactId>
   <version>1.8-SNAPSHOT</version>
