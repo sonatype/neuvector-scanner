@@ -1,3 +1,5 @@
+## Obsolete. We move to this new one https://github.com/sonatype/scanner-java-wrapper
+
 ## NeuVector Security Scanner Integration Module ##
 
 You can call NeuVector Scanner APIs to scan the docker registry or local docker image. 
